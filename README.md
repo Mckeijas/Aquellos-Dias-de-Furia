@@ -22,11 +22,12 @@
 
 ## Añadidos
 
-- Instala tu propia versión de la ROM
-- Relación de aspecto 4:3 / 16:9
-- Extras
-- Logros
-- Multijugador local u online
+- **Instala tu propia versión de la ROM**
+- **Relación de aspecto** 4:3 / 16:9
+- **Mejoras gráficas / filtros**
+- **Extras:** imágenes, ilustraciones y cabinets originales.
+- **Logros:** compatible con RetroAchievements para identificar tus logros.
+- **Multijugador:** en modo local (misma wifi) o por internet (P2P).
 
 ## Juegos incluidos
 
@@ -89,6 +90,6 @@ Este software se ofrece "tal cual", sin garantía de ningún tipo.
 
 ## English summary
 
-**Días de Furia** is a fan-made, non-profit compilation frontend for classic arcade beat 'em ups. Controls: physical and touch. Languages: Spanish / English. Compatible with the parent ROM sets (clones/regional versions optionally) of every listed game, as `.zip` files. Features: bring your own ROM (per-game `.zip` import or bulk import from a `.zip` pack by path), 4:3 / 16:9, extras, achievements, local or online multiplayer. Tested on Ayn Odin 2 Portal.
+**Días de Furia** is a fan-made, non-profit compilation frontend for classic arcade beat 'em ups. Controls: physical and touch. Languages: Spanish / English. Compatible with the parent ROM sets (clones/regional versions optionally) of every listed game, as `.zip` files. Features: bring your own ROM (per-game `.zip` import or bulk import from a `.zip` pack by path), 4:3 / 16:9, graphics enhancements/filters, extras (original images, artwork and cabinets), RetroAchievements support, and multiplayer over local wifi or online (P2P). Tested on Ayn Odin 2 Portal.
 
 **No ROMs are included.** All game titles, characters and trademarks belong to their respective owners; this project is not affiliated with or endorsed by them.
