@@ -1,0 +1,10 @@
+Trucos de FBNeo (formato .ini), del repositorio oficial FBNeo-cheats:
+https://github.com/finalburnneo/FBNeo-cheats
+
+Un archivo por juego con el id de datos/Juego.kt (= romset padre): ffight.ini, wof.ini...
+Al arrancar un juego, la app copia el suyo como sistema/fbneo/cheats/<romset>.ini
+para que FBNeo lo cargue. Los nombres se traducen al español en la app (Trucos.kt).
+
+Sin trucos en FBNeo-cheats (oct. 2026): captaven, ga2, metamrph, viostorm. Sus .ini se han
+convertido de los trucos de MAME (cheat.7z) con herramientas/trucos/mame_a_fbneo.py: solo los que
+escriben valores fijos en la RAM (energía, vidas, magia, créditos, tiempo, invencible…).

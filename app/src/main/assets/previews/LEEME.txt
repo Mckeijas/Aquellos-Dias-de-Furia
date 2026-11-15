@@ -1,0 +1,7 @@
+Imagen de vista previa de cada juego en la ruleta de selección. No se suben a GitHub.
+
+Nombre: <id del juego>.jpg (o .png / .webp), con el mismo id que en datos/Juego.kt.
+Ejemplo: kod.jpg, tod.png, som.webp
+
+Recomendado: captura del juego en 4:3 (p. ej. 640x480) o flyer. Si falta, la ficha
+muestra un recuadro con el nombre del juego: la app compila y funciona igual.
