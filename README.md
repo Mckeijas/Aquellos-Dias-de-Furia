@@ -80,6 +80,7 @@ La aplicación lee ROMs en formato `.zip` de los **29 juegos de la lista anterio
 
 - **No se incluye ni se distribuye ninguna ROM**, imagen de juego ni archivo con copyright de terceros. Los usuarios son responsables de obtener sus propias copias de forma legal.
 - Todos los juegos, títulos, personajes, logotipos, marcas y demás material citados en este repositorio son **propiedad de sus respectivos titulares** (entre ellos Konami, Capcom, Sega, SNK, Data East, Irem, Technōs/Taito, Alpha Denshi, Marvel, 20th Century Fox, Nickelodeon/Mirage Studios, Sony Pictures y otros). La tabla anterior es solo orientativa.
+- Las **imágenes, ilustraciones, artes, cabinets y demás material gráfico** asociados a cada juego pertenecen a sus **respectivos autores, artistas y titulares de derechos**. Se muestran únicamente como homenaje y con fines de identificación, sin ánimo de lucro, y no se reclama autoría ni propiedad sobre ellos.
 - Este proyecto **no está afiliado, patrocinado ni respaldado** por ninguno de ellos.
 - Los nombres se usan únicamente con fines de identificación y compatibilidad.
 - Si eres titular de derechos y deseas que algún contenido se modifique o retire, abre un *issue* o contacta con el autor y se atenderá de inmediato.
@@ -92,4 +93,4 @@ Este software se ofrece "tal cual", sin garantía de ningún tipo.
 
 **Días de Furia** is a fan-made, non-profit compilation frontend for classic arcade beat 'em ups. Controls: physical and touch. Languages: Spanish / English. Compatible with the parent ROM sets (clones/regional versions optionally) of every listed game, as `.zip` files. Features: bring your own ROM (per-game `.zip` import or bulk import from a `.zip` pack by path), 4:3 / 16:9, graphics enhancements/filters, extras (original images, artwork and cabinets), RetroAchievements support, and multiplayer over local wifi or online (P2P). Tested on Ayn Odin 2 Portal.
 
-**No ROMs are included.** All game titles, characters and trademarks belong to their respective owners; this project is not affiliated with or endorsed by them.
+**No ROMs are included.** All game titles, characters, trademarks, images, illustrations, artwork and cabinets belong to their respective authors and owners; this project is not affiliated with or endorsed by them.
