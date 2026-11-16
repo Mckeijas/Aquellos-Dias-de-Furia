@@ -89,6 +89,17 @@ La aplicación lee ROMs en formato `.zip` de los **29 juegos de la lista anterio
 
 Este software se ofrece "tal cual", sin garantía de ningún tipo.
 
+## Licencias
+
+- **FinalBurn Neo** prohíbe el uso comercial.
+- **LibretroDroid** es GPLv3.
+- **rcheevos** es MIT.
+- Las tipografías **Bangers**, **Barlow Condensed** y **Sedgwick Ave Display** están bajo SIL Open Font License.
+- Los juegos y sus marcas pertenecen a sus titulares.
+- Proyecto sin ánimo de lucro.
+
+Hecho por **Mckeijas**.
+
 ---
 
 ## English summary

@@ -1,0 +1,31 @@
+# ninja log v5
+1	150	8148120284705409	CMakeFiles/logros.dir/audio_red.c.o	8a12caec3412c201
+7	235	8148120285695419	CMakeFiles/logros.dir/logros.c.o	660928482951d29e
+43	329	8148120286425434	CMakeFiles/logros.dir/rcheevos/src/api/rc_api_user.c.o	2b9b9845f6624171
+98	347	8148120286275503	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_consoleinfo.c.o	a02669ddd35267cf
+60	363	8148120286895450	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_alloc.c.o	1e8bdfa506a15696
+35	394	8148120286955458	CMakeFiles/logros.dir/rcheevos/src/api/rc_api_info.c.o	6b28ba56f3cec2a3
+12	408	8148120287375407	CMakeFiles/logros.dir/rcheevos/src/api/rc_api_editor.c.o	5173815a5d8b360f
+25	458	8148120287705417	CMakeFiles/logros.dir/rcheevos/src/api/rc_api_runtime.c.o	dbc1af6ae8c96134
+51	492	8148120287765399	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_condition.c.o	78141f5a02ba4cf6
+111	508	8148120288035423	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_format.c.o	5b6f71680dd19864
+123	523	8148120288225400	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_lboard.c.o	3040d3078f034c3
+81	536	8148120288645437	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_condset.c.o	e4706a0d9b37ff1f
+236	717	8148120290605448	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_operand.c.o	62f7aaca147b2ef2
+161	777	8148120290585454	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_memref.c.o	c7230410ece2b9f2
+442	789	8148120291095458	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_typed_value.c.o	1857363616f27c27
+509	799	8148120291335493	CMakeFiles/logros.dir/rcheevos/src/util/rc_compat.c.o	268de75f5393811e
+394	809	8148120291085422	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_trigger.c.o	2db98ecfab8d1a32
+537	823	8148120291445469	CMakeFiles/logros.dir/rcheevos/src/util/rc_version.c.o	e546d44297784979
+493	827	8148120291555440	CMakeFiles/logros.dir/rcheevos/src/util/md5.c.o	cceea6e467e463fb
+329	831	8148120291735435	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_runtime.c.o	af123d3f8db7f4e1
+19	879	8148120292285403	CMakeFiles/logros.dir/rcheevos/src/api/rc_api_common.c.o	dbfbe2ebb53d15a6
+524	908	8148120292702972	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_value.c.o	e3e38d0dfb863648
+717	948	8148120293082928	CMakeFiles/logros.dir/rcheevos/src/util/rc_util.c.o	ad977012a2a4badd
+348	978	8148120293372922	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_richpresence.c.o	15430ec27980ef11
+364	1093	8148120294542919	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_runtime_progress.c.o	a234234bd5aed5f2
+458	1209	8148120295692920	CMakeFiles/logros.dir/rcheevos/src/runtime/rc_validate.c.o	9ba2e7219797b281
+70	1746	8148120301033192	CMakeFiles/logros.dir/rcheevos/src/client/rc_client.c.o	a134a217b89b4d2a
+1746	1868	8148120302272887	D:/PROYECTO PORT/Dias de Furia/proyecto-android/app/build/intermediates/cxx/Debug/3a47yc13/obj/arm64-v8a/liblogros.so	b400a7a39731244d
+3	486	8154001453422754	CMakeFiles/logros.dir/audio_red.c.o	8a12caec3412c201
+486	991	8154001458434958	D:/PROYECTO PORT/Dias de Furia/proyecto-android/app/build/intermediates/cxx/Debug/3a47yc13/obj/arm64-v8a/liblogros.so	b400a7a39731244d

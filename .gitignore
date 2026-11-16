@@ -1,49 +1,7 @@
+﻿build/
 .gradle/
-.kotlin/
-build/
-/local.properties
 .idea/
-*.iml
-.DS_Store
-captures/
-.externalNativeBuild/
-.cxx/
-
-# Firma: nunca se sube
-firma.properties
-firma/
-*.jks
+local.properties
 *.keystore
-
-# Núcleo del emulador (se descarga de libretro)
-*.so
-
-# Música del menú (derechos de autor)
-app/src/main/res/raw/musica_menu.*
-
-# Portadas e icono (arte con derechos de autor)
-app/src/main/res/drawable-nodpi/portada_*.jpg
-app/src/main/res/drawable-nodpi/icono_fondo.png
-app/src/main/res/mipmap-*/ic_launcher.png
-
-# Vistas previas de filtros (capturas del juego)
-app/src/main/assets/vistas/
-app/src/main/assets/historia/
-app/src/main/assets/videos/
-
-# Previews de la ruleta (capturas/flyers con derechos)
-app/src/main/assets/previews/*
-app/src/main/assets/bezels_juegos/
-!app/src/main/assets/previews/LEEME.txt
-
-# Arte de Días de Furia (derechos de sus titulares): galería, previews, menú
-app/src/main/assets/arte/
-app/src/main/assets/bezels/
-app/src/main/res/drawable-nodpi/fondo_menu.jpg
-app/src/main/res/drawable-nodpi/portada_leyendas.jpg
-app/src/main/res/drawable-nodpi/titulo_leyendas.png
-app/src/main/res/drawable-nodpi/neon_*.png
-app/src/main/res/drawable-nodpi/nubes_*.png
-app/src/main/res/drawable-nodpi/farola_*.png
-# ROMs (por si alguien las copia dentro del proyecto)
-*.zip
+*.jks
+*.apk

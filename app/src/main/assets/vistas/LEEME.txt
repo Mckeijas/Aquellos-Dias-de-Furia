@@ -1,0 +1,4 @@
+Vistas previas de los filtros de imagen (Ajustes › Filtros): <filtro>.webp (vista general) y
+<filtro>_detalle.webp (personajes ampliados), para ninguno, bilineal, mejorado, crt y lcd.
+Se generan con herramientas/vistas/vistas.py a partir de una captura a resolución original
+(ahora, TMNT: Turtles in Time a 320×224). No se suben a GitHub.

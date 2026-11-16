@@ -1,0 +1,3 @@
+Marcos laterales (bezels) de la pantalla de juego, 1920×1080. Se eligen en Ajustes › Filtros
+y en la pausa. Se generan con herramientas/bezels/bezels.py (01 sale de la portada). No se
+suben a GitHub. «01_arte_difuminado.jpg» es el que se usa por defecto.
