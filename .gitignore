@@ -5,3 +5,6 @@ local.properties
 *.keystore
 *.jks
 *.apk
+.cxx/
+.externalNativeBuild/
+captures/
