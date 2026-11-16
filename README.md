@@ -22,11 +22,13 @@
 
 ## Añadidos
 
-- **Instala tu propia versión de la ROM**
+- **Ruleta de juegos:** lista que gira a la izquierda y ficha a la derecha (portada o vídeo de demostración, datos de la placa, estadísticas y récord, versiones/regiones aceptadas e importación). Favoritos y botón «¡Al azar!».
+- **Roms:** importación de ROMs reconocidas por CRC (padres, clones split y merged, BIOS de Neo Geo, claves CPS-2), juego a juego o de una carpeta entera (Ruta / Refresca).
 - **Relación de aspecto** 4:3 / 16:9
 - **Mejoras gráficas / filtros**
-- **Extras:** imágenes, ilustraciones y cabinets originales.
-- **Logros:** compatible con RetroAchievements para identificar tus logros.
+- **Partidas:** partidas guardadas, trucos, filtros, mandos, multijugador en red local e internet, menú de servicio de cada placa (X = TEST, Y = SERVICE).
+- **Logros:** logros de RetroAchievements con pantallazo automático de cada logro (Extras › Pantallazos).
+- **Extras:** galería, historia de cada juego y pantallazos de los logros.
 - **Multijugador:** en modo local (misma wifi) o por internet (P2P).
 
 ## Juegos incluidos
@@ -91,6 +93,6 @@ Este software se ofrece "tal cual", sin garantía de ningún tipo.
 
 ## English summary
 
-**Días de Furia** is a fan-made, non-profit compilation frontend for classic arcade beat 'em ups. Controls: physical and touch. Languages: Spanish / English. Compatible with the parent ROM sets (clones/regional versions optionally) of every listed game, as `.zip` files. Features: bring your own ROM (per-game `.zip` import or bulk import from a `.zip` pack by path), 4:3 / 16:9, graphics enhancements/filters, extras (original images, artwork and cabinets), RetroAchievements support, and multiplayer over local wifi or online (P2P). Tested on Ayn Odin 2 Portal.
+**Días de Furia** is a fan-made, non-profit compilation frontend for classic arcade beat 'em ups. Controls: physical and touch. Languages: Spanish / English. Compatible with the parent ROM sets (clones/regional versions optionally) of every listed game, as `.zip` files. Features: game roulette with a detail card per game, CRC-based ROM recognition (parents, split/merged clones, Neo Geo BIOS, CPS-2 keys) imported per game or from a whole folder, 4:3 / 16:9, graphics enhancements/filters, save states, cheats, controller support, per-board service menu, RetroAchievements with automatic achievement screenshots, extras (gallery and game histories), and multiplayer over local wifi or online (P2P). Tested on Ayn Odin 2 Portal.
 
 **No ROMs are included.** All game titles, characters, trademarks, images, illustrations, artwork and cabinets belong to their respective authors and owners; this project is not affiliated with or endorsed by them.
